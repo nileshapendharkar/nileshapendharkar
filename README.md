@@ -1,5 +1,5 @@
 # 💫 About Me:
-## <br><br>I'm an **SAP Business One Consultant & Software Developer** passionate about building business solutions and modern applications.<br><br>* 💼 SAP Business One Consultant<br>* 🌐 Web Application Developer<br>* 📱 Mobile & Desktop App Developer<br>* 🔗 SAP B1 Integration & Customization<br>* 🛠️ Business Process Automation & API Integration<br>* 🚀 Turning business requirements into practical software solutions<br><br>**Build • Integrate • Automate • Innovate**<br>
+## <br><br>I'm an **SAP Business One Techno Functional Consultant & Software Developer** passionate about building business solutions and modern applications.<br><br>* 💼 SAP Business One Consultant<br>* 🌐 Web Application Developer<br>* 📱 Mobile & Desktop App Developer<br>* 🔗 SAP B1 Integration & Customization<br>* 🛠️ Business Process Automation & API Integration<br>* 🚀 Turning business requirements into practical software solutions<br><br>**Build • Integrate • Automate • Innovate**<br>
 
 
 ## 🌐 Socials:
